@@ -1,2 +1,2 @@
 # DjangoBootstrap
-Tutorial project to test out Django (Pyhon) project and Bootstrap
+Tutorial project to test out Django (Python) project and Bootstrap
